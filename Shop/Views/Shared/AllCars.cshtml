@@ -1,0 +1,9 @@
+﻿@model Car
+
+<div class="col-lg-4">
+    <img class="img-thumbnail" src="@Model.Img" alt="@Model.Name" width="300px" height="250px" />
+    <h2>Модель: @Model.Name</h2>
+    <p>@Model.ShortDescription</p>
+    <p>Цена: @Model.Price.ToString("c")</p>
+    <p><a class="btn btn-warning" asp-controller="ShopCart" asp-action="AddToCart" asp-route-id="@Model.Id">Добавить в корзину</a></p>
+</div>
