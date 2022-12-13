@@ -1,3 +1,12 @@
-﻿body {
-    background: #fcfcfc
+﻿html {
+    height: 100%;
+}
+
+body {
+    background: #fcfcfc;
+    margin: 0;
+    /* Растягиваем body по высоте html */
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
 }

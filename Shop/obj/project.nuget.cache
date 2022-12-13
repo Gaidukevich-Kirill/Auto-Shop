@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B+yMzGfmWilas2wMOPQ17mpaHjLjFYRsnk8YbUuM8CmZ5E098CJRFRIfkwDw00ZxKdvHV0AdvOAnaokb1S+3wQ==",
+  "dgSpecHash": "OYPmEY/GHaU9w60XkYZqgOzxf+INb9XnolmlmLFeZVzUYEO0jRCAwCxHWlubMNY0CB++6tl75gvgkSFcf0ThUw==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Shop\\Shop\\Shop.csproj",
+  "projectFilePath": "E:\\Projects\\Auto-Shop\\Shop\\Shop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\New\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\New\\.nuget\\packages\\json\\1.0.1\\json.1.0.1.nupkg.sha512",

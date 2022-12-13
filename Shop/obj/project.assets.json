@@ -7003,11 +7003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Shop\\Shop\\Shop.csproj",
+      "projectUniqueName": "E:\\Projects\\Auto-Shop\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "E:\\Projects\\Shop\\Shop\\Shop.csproj",
+      "projectPath": "E:\\Projects\\Auto-Shop\\Shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\New\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\Shop\\Shop\\obj\\",
+      "outputPath": "E:\\Projects\\Auto-Shop\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\New\\AppData\\Roaming\\NuGet\\NuGet.Config",
